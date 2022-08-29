@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>first</title>
+    <link href="/2022/08/29/first/"/>
+    <url>/2022/08/29/first/</url>
+    
+    <content type="html"><![CDATA[<h1 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h1><img src="/2022/08/29/first/first.jpg" class="" title="图片引用方法一"><p><img src="/images/first.jpg" alt="图片引用方法三"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/08/29/hello-world/"/>
     <url>/2022/08/29/hello-world/</url>
